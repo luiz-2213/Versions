@@ -14,6 +14,9 @@ Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), qu
 Você pode usar a UEFN Dev, uma versão da UEFN com todos os arquivos do jogo desbloqueados.  
 No entanto, só existe um `.exe` datado da UEFN Dev a partir da versão 28.30.
 
+### 3º Caso – Portar coisas de eventos
+No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que usar plugins de eventos, muitos</br>desse plugins estão no [servidor da UEFN Dev](https://discord.gg/UUBhVNjcsk)
+
 ### Discords:
 [Fortnite Porting](https://discord.gg/UUBhVNjcsk)</br>[Fmodel](https://discord.gg/UUBhVNjcsk)</br>[JAA](https://discord.gg/TfYmWYtKG6)</br>[UEFN Dev](https://discord.gg/VpYyFS8wbm)
 
