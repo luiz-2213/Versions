@@ -8,7 +8,7 @@ Criado por: Luiz_2213
 |---------|---------|--------|----------|------|----------------|
 |12.61|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/12.61%20/AESKeys_12.61.md)| | - |4.24|Fritter|
 |17.50| | | |4.27|Kiwi|
-|18.40| | | |4.28|Guava|
+|18.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/18.40%20/AESKeys_18.40.md)| | |4.28|Guava|
 |20.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/20.40%20/AESKeys_20.40.md)| | |5.0|Armadillo|
 |22.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/AESKeys_22.40.md)| | |5.0|Radish|
 |27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)| | | | Durian|
