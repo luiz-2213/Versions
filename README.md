@@ -20,7 +20,7 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 ### Discords:
 [Fortnite Porting](https://discord.gg/UUBhVNjcsk)</br>[Fmodel](https://discord.gg/UUBhVNjcsk)</br>[JAA](https://discord.gg/TfYmWYtKG6)</br>[UEFN Dev](https://discord.gg/VpYyFS8wbm)
 
-## Informações
+##  Versões com eventos
 | Version | AESKeys | Mappings |  UE  | Event Codename |
 |---------|---------|----------|------|----------------|
 |12.61|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/12.61%20/AESKeys_12.61.md)|-|4.24|Fritter     |
@@ -33,13 +33,17 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 |35.20|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20%20/AesKeys_35.20.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20/%2B%2BFortnite%2BRelease-35.20-CL-42911808-Windows_oo.usmap)|5.6 |RipeHoneydew|
 
 
-
-
-
-
-
-
-
+## Builds 
+| Version | site_01 | site_02 |  Plugins  |
+|---------|---------|---------|-----------|
+|12.61|-------------|---------|-|
+|17.50|-------------|---------|-|
+|18.40|-------------|---------|-|
+|20.40|-------------|---------|-|
+|22.40|-------------|---------|-|
+|27.11|-------------|---------| |
+|32.11|-------------|---------|[Plugin](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
+|35.20|-------------|---------| |
 
 
 
