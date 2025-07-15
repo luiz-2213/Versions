@@ -1,16 +1,46 @@
 # Fortnite Spies
 Aqui você encontrará builds, AES keys e outras informações sobre os arquivos do Fortnite.
 Por enquanto, só adicionarei versões que contenham eventos ou elementos relevantes para serem portados para o UEFN.
-
 Criado por: Luiz_2213
 
-| Version | AESKeys | Builds | Mappings |  UE  | Event Codename |
-|---------|---------|--------|----------|------|----------------|
-|12.61|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/12.61%20/AESKeys_12.61.md)| |-|4.24|Fritter     |
-|17.50|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/17.50%20/AESKeys_17.50.md)| | |4.27|Kiwi        |
-|18.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/18.40%20/AESKeys_18.40.md)| | |4.28|Guava       |
-|20.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/20.40%20/AESKeys_20.40.md)| | |5.0 |Armadillo   |
-|22.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/AESKeys_22.40.md)| | |5.0 |Radish      |
-|27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)   | | |5.3 | Durian     |
-|32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)| | |5.5 | Quail      |
-|35.20|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20%20/AesKeys_35.20.md)| | |5.6 |RipeHoneydew|
+## Como Portar
+
+### 1º Caso – Modelos e Texturas  
+Você pode usar o [Fortnite Porting](https://github.com/h4lfheart/FortnitePorting), o [FModel](https://github.com/4sval/FModel)
+ou o UModel (conhecido como [UEViewer](https://www.gildor.org/en/projects/umodel)).
+
+### 2º Caso – Materiais, Funções e Afins  
+Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), que utiliza uma versão modificada do FModel</br>para transformar arquivos `.json` em `.uasset`.</br>Infelizmente, o JAA só funciona corretamente a partir da versão 24.00 (quando a UEFN foi lançada).  
+Você pode usar a UEFN Dev, uma versão da UEFN com todos os arquivos do jogo desbloqueados.  
+No entanto, só existe um `.exe` datado da UEFN Dev a partir da versão 28.30.
+
+### Discords:
+[Fortnite Porting](https://discord.gg/UUBhVNjcsk)</br>[Fmodel](https://discord.gg/UUBhVNjcsk)</br>[JAA](https://discord.gg/TfYmWYtKG6)</br>[UEFN Dev](https://discord.gg/VpYyFS8wbm)
+
+## Informações
+| Version | AESKeys | Mappings |  UE  | Event Codename |
+|---------|---------|----------|------|----------------|
+|12.61|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/12.61%20/AESKeys_12.61.md)|-|4.24|Fritter     |
+|17.50|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/17.50%20/AESKeys_17.50.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/17.50%20/++Fortnite+Release-17.50-CL-17388565-Windows_oo.usmap)|4.27|Kiwi        |
+|18.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/18.40%20/AESKeys_18.40.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/18.40%20/++Fortnite+Release-18.40-CL-18163738-Windows_oo.usmap)|4.28|Guava       |
+|20.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/20.40%20/AESKeys_20.40.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/20.40%20/%20++Fortnite+Release-20.40-CL-20244966-Windows_oo.usmap)|5.0 |Armadillo   |
+|22.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/AESKeys_22.40.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/++Fortnite+Release-22.40-CL-23070899-Android_oo.usmap)|5.0 |Radish      |
+|27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)   |[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/%2B%2BFortnite%2BRelease-27.11-CL-29739262-Android_oo.usmap)|5.3 | Durian     |
+|32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11/%2B%2BFortnite%2BRelease-32.11-CL-38202817-Windows_oo.usmap)|5.5 | Quail      |
+|35.20|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20%20/AesKeys_35.20.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20/%2B%2BFortnite%2BRelease-35.20-CL-42911808-Windows_oo.usmap)|5.6 |RipeHoneydew|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
