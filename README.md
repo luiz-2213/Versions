@@ -11,6 +11,6 @@ Criado por: Luiz_2213
 |18.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/18.40%20/AESKeys_18.40.md)| | |4.28|Guava|
 |20.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/20.40%20/AESKeys_20.40.md)| | |5.0|Armadillo|
 |22.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/AESKeys_22.40.md)| | |5.0|Radish|
-|27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)| | | | Durian|
-|32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)| | | | Quail |
+|27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)   | | |5.3| Durian|
+|32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)| | |5.5| Quail |
 | | | | |  | |
