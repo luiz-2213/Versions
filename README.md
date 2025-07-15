@@ -6,4 +6,4 @@ Criado por: Luiz_2213
 
 | Version | AESKeys | Builds | Mappings |
 |---------|------|-----------|----------|
-|12.61| key| 12.61build | - |
+|12.61| [AESKeys_12.61](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/12.61%20/AESKeys_12.61.md)| 12.61build | - |
