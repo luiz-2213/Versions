@@ -47,8 +47,19 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 
 Abaixo vou explicar como usar o Plugin e a UEFN-PIE
 ## Plugin
+Vou usar a versão 35.20 de exemplo.
+1º Baixe a versão 35.20
+2º Baixe o Plugin **da versão 35.20**
+3º Extrai-a a Arquivo do Plugin em `FortniteGame/Plugins/GameFeatures`
+4º Baixe a UEFN Dev da versão 35.20 depois extrai-a o arquivo.
+5º Coloque a UEFN DEV 35.20(o arquivo que você extraiu) em `FortniteGame/Content/Binaries`
+6º Crie um atalho do arquivo e renomeie-o.
+7º Abra as propriedades do arquivo, vá em `Destino` dê espeço e adicione: `-disableplugins="AtomVK,ValkyrieFortnite" -enablePlugins="RipeHoneydewPlaylist"`
+Observação: `-enablePlugins="RipeHoneydewPlaylist"` é para desbloquear o evento da versão 35.20, ou seja, só serve para essa versão,</br>já o `-disableplugins="AtomVK,ValkyrieFortnite"` é universal para abrir a UEFN Dev em qualuqer versão
+
 Para usar o Plugin você deve entrar dentro da pasta da versão que você baixou da seguinte forma:
-FortniteGame/Plugins/GameFeatures e extrair o arquivo do plugin dentro da pasta 
+`FortniteGame/Plugins/GameFeatures` e extrair o arquivo do plugin dentro da pasta GameFeatures
+Baixe a versão da UEFN Dev que você precisa
 
 
 
