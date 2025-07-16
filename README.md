@@ -34,19 +34,21 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 
 
 ## Builds 
-| Version | site_01 | site_02 |  Plugins  |
-|---------|---------|---------|-----------|
-|12.61|-------------|---------|-|
-|17.50|-------------|---------|-|
-|18.40|-------------|---------|-|
-|20.40|-------------|---------|-|
-|22.40|-------------|---------|-|
-|27.11|-------------|---------| |
-|32.11|-------------|---------|[Plugin](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
-|35.20|-------------|---------| |
+| Version | site_01 | site_02 | site_03 |  Plugins  |
+|---------|---------|---------|---------|-----------|
+|12.61|-------------|---------|----|-|
+|17.50|-------------|---------|----|-|
+|18.40|-------------|---------|----|-|
+|20.40|-------------|---------|----|-|
+|22.40|-------------|---------|----|-|
+|27.11|-------------|---------|----|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/27.11?tab=readme-ov-file)| 
+|32.11|-------------|---------|----|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
+|35.20|-------------|---------|----|Plugin|
 
-
-
+Abaixo vou explicar como usar o Plugin e a UEFN-PIE
+## Plugin
+Para usar o Plugin você deve entrar dentro da pasta da versão que você baixou da seguinte forma:
+FortniteGame/Plugins/GameFeatures e extrair o arquivo do plugin dentro da pasta 
 
 
 
