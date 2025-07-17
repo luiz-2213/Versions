@@ -58,6 +58,6 @@ Existem links que ainda funcionam bem como: </br>
 
 Os créditos de quem forneceu as versões já esta lá.</br>
 
-Como usar a UEFN-PIE e o Plugin? Clique aqui:
-UEFN-PIE
-[Plugin](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/PluginTutorial.md)
+Como usar a UEFN-PIE e o Plugin?</br>
+UEFN-PIE</br>
+[PluginTutorial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/PluginTutorial.md)
