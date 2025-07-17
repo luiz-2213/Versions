@@ -2,6 +2,7 @@
 ### A versão do Fortnite Porting(FP) mais facíl de usar.
 ###### mentira, é porque eu só sei usar essa versão ;-;
 **Observação:** Para melhor funcionamento do FP, instale-o no Disco D, em ultimo caso, no disco C.
+</br>
 **1º** Baixe a ultima versão do FP no discord deles</br>
 <img width="213" height="61" alt="v3" src="https://github.com/user-attachments/assets/8457e9ee-5c45-4464-a09a-373b1478b0a7" />
 </br>
