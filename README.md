@@ -37,16 +37,26 @@ Observação:</br>Os `Mappings` foram criados na versão volta do Capítulo 2 Te
 </br>
 
 ## Builds 
-| Version | site_01 | site_02 | site_03 |  Plugins  |
+| Version | Site 01 | Site 02 | Site 03 |  Plugins  |
 |---------|---------|---------|---------|-----------|
-|12.61|-------------|---------|----|-|
-|17.50|-------------|---------|----|-|
-|18.40|-------------|---------|----|-|
-|20.40|-------------|---------|----|-|
-|22.40|-------------|---------|----|-|
-|27.11|-------------|---------|----|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/27.11?tab=readme-ov-file)| 
-|32.11|-------------|---------|----|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
-|35.20|-------------|---------|----|Plugin|
+|12.61|[simplyblk](https://public.simplyblk.xyz/12.61.zip)|x|[gigafile](https://42.gigafile.nu/0716-e150bfea1e3e1e97bebef85f04add9374)|-|
+|17.50|[simplyblk](https://public.simplyblk.xyz/17.50.zip)|[GoogleDrive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view)|x|-|
+|18.40|[simplyblk](https://public.simplyblk.xyz/18.40.zip)|[Carbon](https://cdn.cbn.lol/18.40)|[galaxiafn](https://galaxiafn.co.uk/18.40.zip)|-|
+|20.40|[simpleblk](https://public.simplyblk.xyz/20.40.zip)|[Carbon](https://cdn.cbn.lol/20.40)|x|-|
+|22.40|x|x|[gigafile](https://42.gigafile.nu/0717-f74af55d65c16b789755388fc49226759)|-|
+|27.11|x|[gofile](https://gofile.io/d/MfJHqg)|[gigafile](https://42.gigafile.nu/0716-ma8dd9bbcc695f2e4dbaf51d3498d8054)|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/27.11?tab=readme-ov-file)| 
+|32.11|x|[gofile](https://gofile.io/d/8Q1Pl2)|[gigafile](https://42.gigafile.nu/0717-h721bb3932501e2575180b350f498ce62)|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
+|35.20|x|[gofile](https://gofile.io/d/9OVwuD)|x|Plugin|
+</br>
+Existem links que ainda funcionam bem como: </br> 
+
+[link_01](https://github.com/ByZNexus/Fortnite-Versions?tab=readme-ov-file) </br> 
+
+[link_02](https://github.com/llamaqwerty/fortnite-builds-archive) </br> 
+
+[link_03](https://builds.cbn.lol/builds) </br> 
+
+Os créditos de quem forneceu as versões já esta lá.</br>
 
 Como usar a UEFN-PIE e o Plugin? Clique aqui:
 UEFN-PIE
