@@ -7,7 +7,8 @@ Criado por: Luiz_2213
 
 ### 1º Caso – Modelos e Texturas  
 Você pode usar o [Fortnite Porting](https://github.com/h4lfheart/FortnitePorting), o [FModel](https://github.com/4sval/FModel)
-ou o UModel (conhecido como [UEViewer](https://www.gildor.org/en/projects/umodel)).
+ou o UModel (conhecido como [UEViewer](https://www.gildor.org/en/projects/umodel)).</br>
+Tutorial FortnitePorting
 
 ### 2º Caso – Materiais, Funções e Afins  
 Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), que utiliza uma versão modificada do FModel</br>para transformar arquivos `.json` em `.uasset`.</br>Infelizmente, o JAA só funciona corretamente a partir da versão 24.00 (quando a UEFN foi lançada).  
@@ -31,8 +32,9 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 |27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)   |[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/%2B%2BFortnite%2BRelease-27.11-CL-29739262-Android_oo.usmap)|5.3 | Durian     |
 |32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11/%2B%2BFortnite%2BRelease-32.11-CL-38202817-Windows_oo.usmap)|5.5 | Quail      |
 |35.20|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20%20/AesKeys_35.20.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20/%2B%2BFortnite%2BRelease-35.20-CL-42911808-Windows_oo.usmap)|5.6 |RipeHoneydew|
-
-
+</br>
+Observação:</br>Os `Mappings` foram criados na versão volta do Capítulo 2 Temporada 6.</br>O Fortnite Porting baixa as AesKeys em um click no proprio programa.
+</br>
 ## Builds 
 | Version | site_01 | site_02 | site_03 |  Plugins  |
 |---------|---------|---------|---------|-----------|
