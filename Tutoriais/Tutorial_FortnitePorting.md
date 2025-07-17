@@ -59,4 +59,5 @@ O blender vai começar a compilar com o FP</br>
 <img width="309" height="307" alt="vaem" src="https://github.com/user-attachments/assets/4a5b879c-03b1-4590-8043-d071fc07f8aa" />
 </br>
 <img width="330" height="230" alt="prefrense" src="https://github.com/user-attachments/assets/f3006d32-c19f-49f1-82d5-269edf133a86" />
+</br>
 **9º** Agora aproveite e extraia oque você quiser.
