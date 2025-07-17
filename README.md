@@ -35,6 +35,7 @@ No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que us
 </br>
 Observação:</br>Os `Mappings` foram criados na versão volta do Capítulo 2 Temporada 6.</br>O Fortnite Porting baixa as AesKeys em um click no proprio programa.
 </br>
+
 ## Builds 
 | Version | site_01 | site_02 | site_03 |  Plugins  |
 |---------|---------|---------|---------|-----------|
