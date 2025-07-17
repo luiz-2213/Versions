@@ -8,7 +8,7 @@ Criado por: Luiz_2213
 ### 1º Caso – Modelos e Texturas  
 Você pode usar o [Fortnite Porting](https://github.com/h4lfheart/FortnitePorting), o [FModel](https://github.com/4sval/FModel)
 ou o UModel (conhecido como [UEViewer](https://www.gildor.org/en/projects/umodel)).</br>
-Tutorial FortnitePorting
+[Tutorial FortnitePorting](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/Tutorial_FortnitePorting.md)
 
 ### 2º Caso – Materiais, Funções e Afins  
 Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), que utiliza uma versão modificada do FModel</br>para transformar arquivos `.json` em `.uasset`.</br>Infelizmente, o JAA só funciona corretamente a partir da versão 24.00 (quando a UEFN foi lançada).  
