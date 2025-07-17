@@ -31,7 +31,7 @@ Extrair e visualizar os arquivos.</br>
 <img width="25,5" height="25,5" alt="radio" src="https://github.com/user-attachments/assets/e4fe0723-7227-4d57-b00f-163d2cb3d213" />
 Extrair e visualizar músicas.</br>
 <img width="25,5" height="25,5" alt="map" src="https://github.com/user-attachments/assets/d38f7152-80d0-4531-a722-da000292da47" />
-Extrair um pedaçõ da ilha e visualizar o mapa.</br>
+Extrair um pedaço da ilha e visualizar o mapa.</br>
 <img width="25,5" height="25,5" alt="plugin" src="https://github.com/user-attachments/assets/2fef081d-d5fa-4e29-8439-65e9ed6037e4" />
 São os Plugins, o FP só aceita dois plugins o Blender a a Unreal Engine 5.</br>
 <img width="25,5" height="25,5" alt="configplugin" src="https://github.com/user-attachments/assets/b11a0bc5-4556-4c30-a25a-99ab28bcdd3b" />
