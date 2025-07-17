@@ -44,7 +44,7 @@ São as configurações do FP, e da versão do Fortnite.</br>
 </br>
 Na parte `Fortnite version`você pode colocar `custom` para abrir outras versões do Fortnite, caso você fizer isso deve preencher o formulario a baixo.</br>
 
-**7º**Como extrair, para uam extração de malhas, o ideal é baixar o [Blender](https://www.blender.org/download/releases/4-3/).</br>
+**7º**Como extrair? Para uam extração de malhas, o ideal é baixar o [Blender](https://www.blender.org/download/releases/4-3/).</br>
 Após baixar o Blender vá em <img width="25,5" height="25,5" alt="plugin" src="https://github.com/user-attachments/assets/5d4e5b9f-ec03-4fb9-81f7-961dc6621b7a" />, depois vá em</br> 
 <img width="612,5" height="82,5" alt="blenderplugin" src="https://github.com/user-attachments/assets/de00012d-bb6e-4c91-8a27-0e709758b805" />
 </br>
@@ -60,4 +60,9 @@ O blender vai começar a compilar com o FP</br>
 </br>
 <img width="330" height="230" alt="prefrense" src="https://github.com/user-attachments/assets/f3006d32-c19f-49f1-82d5-269edf133a86" />
 </br>
-**9º** Agora aproveite e extraia oque você quiser.
+**9º** Caso você só queira texturas vá em <img width="25,5" height="25,5" alt="files" src="https://github.com/user-attachments/assets/2202c331-3cb8-4a32-92ec-2b090ee6e494" />
+e mude o modo de extração de blender para Assets Folder, a textura será incaminhada para pasta `Assets` dentro da pasta do Fortnite Porting que você criou.
+</br>
+**10º** Agora aproveite e extraia oque você quiser. </br>
+Caso você tiver duvidas, me procure no discord.</br>
+POR FAVOR SE TIVER MUITOS ERROS DE DIGITAÇÃO ME FALEEE!
