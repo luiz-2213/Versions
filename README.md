@@ -11,9 +11,9 @@ ou o UModel (conhecido como [UEViewer](https://www.gildor.org/en/projects/umodel
 [Tutorial FortnitePorting](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/Tutorial_FortnitePorting.md)
 
 ### 2º Caso – Materiais, Funções e Afins  
-Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), que utiliza uma versão modificada do FModel</br>para transformar arquivos `.json` em `.uasset`.</br>Infelizmente, o JAA só funciona corretamente a partir da versão 24.00 (quando a UEFN foi lançada).  
-Você pode usar a UEFN Dev, uma versão da UEFN com todos os arquivos do jogo desbloqueados.  
-No entanto, só existe um `.exe` datado da UEFN Dev a partir da versão 28.30.
+Você pode usar o [JAA](https://github.com/JsonAsAsset/JsonAsAsset/releases), que utiliza uma versão modificada do FModel</br>para transformar arquivos `.json` em `.uasset`.</br>Infelizmente, o JAA só funciona corretamente apartir da versão 24.00 (quando a UEFN foi lançada).  
+Você pode usar a UEFN Dev, uma versão da UEFN com todos os arquivos do jogo desbloqueados.</br> 
+No entanto, só existe um `.exe` datado da UEFN Dev a partir da versão 29.00, porém você pode [criar o seu próprio `.exe`](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/XdeltaTutorial.md).</br> 
 
 ### 3º Caso – Portar coisas de eventos
 No caso na UEFN Dev, se você quiser portar coisas de eventos, você tera que usar plugins de eventos, muitos</br>desse plugins estão no [servidor da UEFN Dev](https://discord.gg/UUBhVNjcsk)
