@@ -48,7 +48,7 @@ Observação:</br>Os `Mappings` foram criados na versão volta do Capítulo 2 Te
 |32.11|x|[gofile](https://gofile.io/d/8Q1Pl2)|[gigafile](https://42.gigafile.nu/0717-h721bb3932501e2575180b350f498ce62)|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
 |35.20|x|[gofile](https://gofile.io/d/9OVwuD)|x|Plugin|
 </br>
-Existem links que ainda funcionam bem como: </br> 
+Existem links que ainda funcionam bem, como: </br> 
 
 [link_01](https://github.com/ByZNexus/Fortnite-Versions?tab=readme-ov-file) </br> 
 
