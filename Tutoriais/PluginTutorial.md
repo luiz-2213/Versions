@@ -18,4 +18,5 @@ Os arquivos dos eventos ficam escontidos nos arquivos você tem que forçar o ca
 **2º** Baixe o [Neonite](https://github.com/HybridFNBR/Neonite)</br><img width="482,5" height="300,5" alt="neonite" src="https://github.com/user-attachments/assets/50df8868-5bdd-4c88-af75-be4c8daa3a3e" /></br>
 **Baixe o [Node.js](https://nodejs.org/en/download/current/) para o Neonite funcionar**</br>
 **3º** Após extrair o arquivo do neonite abra o `neonite.bat`, ele demora um pouco para compliar os arquivos mesmo,</br>quando aparecer a mensagem `port 5595!`significa que deu tudo certo, **NÃO FECHE O NEONITE APÓS ISSO**</br>
-**4º** Depois abra o flidder,o resto vou explicar em uma imagem 
+**4º** Depois abra o flidder, Tools\Options\HHPTS
+<img width="858" height="482" alt="image" src="https://github.com/user-attachments/assets/d8b6aa78-78c8-4f94-b66c-413f95baeca4" />
