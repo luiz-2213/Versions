@@ -4,6 +4,7 @@ Vou usar a versão 35.20 de exemplo.</br>
 **1º** Baixe a versão 35.20</br>
 **2º** Baixe o Plugin **da versão 35.20**</br>
 **3º** Extrai-a a Arquivo do Plugin em `FortniteGame/Plugins/GameFeatures`</br>
+OBS: EM OUTROS PLUGINS VC DEVE EXTRAIR EM `FortniteGame` </br>
 **4º** Baixe a UEFN Dev da versão 35.20 depois extrai-a o arquivo.</br>
 **5º** Coloque a UEFN DEV 35.20(o arquivo que você extraiu) em `FortniteGame/Content/Binaries`</br>
 **6º** Crie um atalho do arquivo e renomeie-o.</br>
@@ -18,5 +19,12 @@ Os arquivos dos eventos ficam escontidos nos arquivos você tem que forçar o ca
 **2º** Baixe o [Neonite](https://github.com/HybridFNBR/Neonite)</br><img width="482,5" height="300,5" alt="neonite" src="https://github.com/user-attachments/assets/50df8868-5bdd-4c88-af75-be4c8daa3a3e" /></br>
 **Baixe o [Node.js](https://nodejs.org/en/download/current/) para o Neonite funcionar**</br>
 **3º** Após extrair o arquivo do neonite abra o `neonite.bat`, ele demora um pouco para compliar os arquivos mesmo,</br>quando aparecer a mensagem `port 5595!`significa que deu tudo certo, **NÃO FECHE O NEONITE APÓS ISSO**</br>
-**4º** Depois abra o flidder, Tools\Options\HHPTS
-<img width="858" height="482" alt="image" src="https://github.com/user-attachments/assets/d8b6aa78-78c8-4f94-b66c-413f95baeca4" />
+**4º** Depois abra o flidder, cole o texto `FiddlerScript`, abra Tools\Options\HHPTS </br>
+<img width="1600" height="848" alt="fliider_01" src="https://github.com/user-attachments/assets/f62d7f3f-d247-420d-b600-b469b773bbba" /> </br>
+**5º** Deixe suas opções como na imagem a baixo, depois concorde com todos os termos </br>
+<img width="565" height="370" alt="image" src="https://github.com/user-attachments/assets/f532f501-a7f9-4e3a-a94c-dab26cb7b0cb" /> </br>
+<img width="253" height="53" alt="image" src="https://github.com/user-attachments/assets/2795c7ff-a733-4ed2-b376-2ab1e60e5a65" /> </br>
+**6º** Abra a uefn modificada, vá em  `Game/Maps` e abra Frontend, **jamais clique em salvar nada na uefn dev porque se não ela crasha** </br>
+
+vá até a pasta do evento, que geralmente fica em `Plugins/Events`
+
