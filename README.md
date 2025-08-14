@@ -1,4 +1,4 @@
-<img width="503" height="135" alt="UEFN_Avisos_03" src="https://github.com/user-attachments/assets/8e583dbd-6e3d-47db-b888-c67f461e25d8" /> </br>
+<img width="663,5" height="311,5" alt="UEFN_Avisos_03V2_git" src="https://github.com/user-attachments/assets/6bf4cf54-65d3-407d-bca5-ceca024e1742" /> </br>
 *log de mensagem perdida captada...</br>
 captando...</br>
 log 20.02.2020 captada...</br>
@@ -9,9 +9,9 @@ log MK: 0xB5D aberta</br>
 Mensagem para todos os agentes*</br>
 # **Boas-vindas à GitHub!** </br>
 ### Olá agente! Qual método de espionagem você deseja aprender?</br>
-**1º Método:** Baixar versões</br>
-</br>
-**2º Método:** Extração de modelos e texturas!</br>
+**1º Método:** Baixar versões </br>
+</br> 
+**2º Método:** Extração de modelos e texturas! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/1%C2%BA%20M%C3%A9todo.md )</br>
 </br>
 **3º Método:** Extração de Materiais, MFs, MPC e mais!</br>
 </br>
