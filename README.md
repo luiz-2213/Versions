@@ -1,5 +1,29 @@
-<img width="503" height="135" alt="UEFN_Avisos_03" src="https://github.com/user-attachments/assets/8e583dbd-6e3d-47db-b888-c67f461e25d8" />
+<img width="503" height="135" alt="UEFN_Avisos_03" src="https://github.com/user-attachments/assets/8e583dbd-6e3d-47db-b888-c67f461e25d8" /> </br>
+*log de mensagem perdida captada...</br>
+captando...</br>
+log 20.02.2020 captada...</br>
+carregando...</br>
+prosseguir? s/n...</br>
+s...</br>
+log MK: 0xB5D aberta</br>
+Mensagem para todos os agentes*</br>
+# **Boas-vindas à GitHub!** </br>
+### Olá agente! Qual método de espionagem você deseja aprender?</br>
+**1º Método:** Baixar versões</br>
+</br>
+**2º Método:** Extração de modelos e texturas!</br>
+</br>
+**3º Método:** Extração de Materiais, MFs, MPC e mais!</br>
+</br>
+**4º Método:** Etração de feitos Niagara</br>
 
+
+
+
+
+
+</br>
+Oque você seja 
 Aqui você encontrará builds, AES keys e outras informações sobre os arquivos do Fortnite.</br>
 Por enquanto, só adicionarei versões que contenham eventos ou elementos relevantes para serem portados para o UEFN.</br>
 Criado por: Luixx
