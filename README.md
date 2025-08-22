@@ -15,9 +15,9 @@ Mensagem para todos os agentes*</br>
 </br>
 **3º Método:** Extração de Materiais, MFs, MPC e mais!</br>
 </br>
-**4º Método:** Etração de feitos Niagara</br>
+**4º Método:** Extração de feitos Niagara </br>
 
-
+**5º Método:** Extração de conteúdo de eventos! </br>
 
 
 
