@@ -13,11 +13,11 @@ Mensagem para todos os agentes*</br>
 </br> 
 **2º Método:** Extração de modelos e texturas! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/1%C2%BA%20M%C3%A9todo.md )</br>
 </br>
-**3º Método:** Extração de Materiais, MFs, MPC e mais!</br>
+**3º Método:** Extração de Materiais, MFs, MPC e mais! Clique aqui</br>
 </br>
-**4º Método:** Extração de feitos Niagara </br>
+**4º Método:** Extração de feitos Niagara Clique aqui</br>
 
-**5º Método:** Extração de conteúdo de eventos! </br>
+**5º Método:** Extração de conteúdo de eventos! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/5%C2%BA%20M%C3%A9todo.md)</br>
 
 
 
