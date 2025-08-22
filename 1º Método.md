@@ -12,7 +12,8 @@ Você pode usar:</br>
 
 * **UEViewer**</br>
 [UEViewer Site](https://www.gildor.org/en/projects/umodel) (Conhecido como **Umodel**)</br>
-O viewer não é mais ultiazado, porém esta embutido no FP e do Fmodel</br>
+O viewer não é mais utilizado, porém esta embutido no FP e no Fmodel</br>
 
 * **Adicionais**
-[Blender](https://www.blender.org/download/releases/4-3/) para visualizão dos modelos, obriagatório para o FP
+[Blender](https://www.blender.org/download/releases/4-3/) para visualizão dos modelos(**obriagatório para o FP**)
+No youtube você irá encontrar tutoriais de como usar o blender
