@@ -9,7 +9,7 @@ log MK: 0xB5D aberta</br>
 Mensagem para todos os agentes*</br>
 # **Boas-vindas à GitHub!** </br>
 ### Olá agente! Qual método de espionagem você deseja aprender?</br>
-**1º Método:** Baixar versões,AESKeys e Mappings! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/1%C2%BA%20M%C3%A9todo.md) </br>
+**1º Método:** Baixar versões, AESKeys e Mappings! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/1%C2%BA%20M%C3%A9todo.md) </br>
 </br> 
 **2º Método:** Extração de modelos e texturas! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/2%C2%BA%20M%C3%A9todo.md)</br>
 </br>
