@@ -1,9 +1,17 @@
 ## UEFN-PIE Tutorial
-Vou usar a versão 35.20 de exemplo.</br>
 
-**1º** Baixe a versão 35.20</br>
-**2º** Baixe o Plugin **da versão 35.20**</br>
-**3º** Extrai-a a Arquivo do Plugin em `FortniteGame/Plugins/GameFeatures`</br>
+A UEFN-PIE é um processo de descriptografar as coisas dos eventos do Fortnite na UEFN Dev </br>
+Primeiro, é necessario um plugin para desgriptografar junto com o Neonite e o Flidder</br>
+</br>
+**OBS:** Ultilizar o **Flidder pode expor o seus dados e seu VPN**, por isso é necessario **ultiizar um antivírus**, </br>
+caso contrário, seu PC vai sofrer com um, muitos, vírus. </br>
+**Tambem é necessário que no período que o Flidder e o Neonite estiverem abertos, de preferência, o seu navegador não esteja aberto, </br>
+pois alguns sites podem te identificar como um Bot.** </br>
+Caso você corra o risco, não clique em links do discord pois sua conta pode ser suspesa por uma semana.</br>
+</br>
+**1º** Faça o processo do [5º Método](https://github.com/luiz-2213/Versions/blob/main/5%C2%BA%20M%C3%A9todo.md) </br>
+**2º** Baixe o Plugin da versão do evento.</br>
+**3º** Extrai-a o arquivo do plugin em `FortniteGame/Plugins/GameFeatures`</br>
 OBS: EM OUTROS PLUGINS VC DEVE EXTRAIR EM `FortniteGame` </br>
 **4º** Baixe a UEFN Dev da versão 35.20 depois extrai-a o arquivo.</br>
 **5º** Coloque a UEFN DEV 35.20(o arquivo que você extraiu) em `FortniteGame/Content/Binaries`</br>
