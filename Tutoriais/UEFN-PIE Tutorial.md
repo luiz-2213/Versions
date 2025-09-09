@@ -9,16 +9,14 @@ caso contrário, seu PC vai sofrer com um, muitos, vírus. </br>
 pois alguns sites podem te identificar como um Bot.** </br>
 Caso você corra o risco, não clique em links do discord pois sua conta pode ser suspesa por uma semana.</br>
 </br>
-**1º** Faça o processo do [5º Método](https://github.com/luiz-2213/Versions/blob/main/5%C2%BA%20M%C3%A9todo.md) </br>
+**1º** Faça o processo do [3º Método](https://github.com/luiz-2213/Versions/blob/main/3%C2%BA%20M%C3%A9todo.md) </br>
 **2º** Baixe o Plugin da versão do evento.</br>
-**3º** Extrai-a o arquivo do plugin em `FortniteGame/Plugins/GameFeatures`</br>
-OBS: EM OUTROS PLUGINS VC DEVE EXTRAIR EM `FortniteGame` </br>
-**4º** Baixe a UEFN Dev da versão 35.20 depois extrai-a o arquivo.</br>
-**5º** Coloque a UEFN DEV 35.20(o arquivo que você extraiu) em `FortniteGame/Content/Binaries`</br>
-**6º** Crie um atalho do arquivo e renomeie-o.</br>
-**7º** Abra as propriedades do arquivo, vá em `Destino` dê espeço e adicione:</br> `-disableplugins="AtomVK,ValkyrieFortnite" -enablePlugins="RipeHoneydewPlaylist"`</br>
-**Observação:** `-enablePlugins="RipeHoneydewPlaylist"` é para desbloquear o evento da versão 35.20, ou seja, só serve para essa versão,</br>já o `-disableplugins="AtomVK,ValkyrieFortnite"` é universal para abrir a UEFN Dev em qualquer versão.</br>
-**8º** Depois **SALVE** o passo anterior e abra o **ATALHO Q VC CRIOU**</br>
+**3º** Extrai-a o arquivo do plugin em `Fortnite`</br>
+**4º** Abra a UEFN Dev, vá em `Content/Maps` procure por FrontEnd clique 2 vezes, APERTE EM **NÃO SALVAR** e o level abrirá normalmente
+**5º** 
+**6º** 
+**7º** 
+**8º**
 **Observação:** a versão 35.20 costuma dar alguns erros na hora de inicializar, é só clicar em **OK** e a UEFN vai abrir normalmente</br>
 
 ### Como abrir os arquivos do evento?</br>
