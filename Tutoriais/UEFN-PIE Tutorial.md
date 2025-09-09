@@ -25,16 +25,16 @@ Os arquivos dos eventos ficam escontidos nos arquivos você tem que forçar o ca
 **NÃO FECHE O NEONITE**</br>
 **9º** Abra o Flidder em 
 <img width="95" height="30" alt="image" src="https://github.com/user-attachments/assets/8e8c0e8e-d343-4340-b837-d91dbcaebe20" />
-apague oque esta está escrito e cole o texto `FiddlerScript`.
+apague oque esta está escrito e cole o texto `FiddlerScript`.</br>
 **10º** Ainda no Flidder abra *Tools\Options\HHPTS* em:</br>
-<img width="131" height="24" alt="image" src="https://github.com/user-attachments/assets/6c848bba-6bdd-4659-bf1b-6e7b0cbf4ab7" />
+<img width="131" height="24" alt="image" src="https://github.com/user-attachments/assets/6c848bba-6bdd-4659-bf1b-6e7b0cbf4ab7" /> </br>
 **11º** Deixe suas opções como na imagem a baixo, depois concorde com todos os termos </br>
 <img width="565" height="370" alt="image" src="https://github.com/user-attachments/assets/f532f501-a7f9-4e3a-a94c-dab26cb7b0cb" /> </br>
 </br>
 **12º** Ainda no Flidder cliquem em
-<img width="253" height="53" alt="image" src="https://github.com/user-attachments/assets/2795c7ff-a733-4ed2-b376-2ab1e60e5a65" /> aceite os todos os termos.
+<img width="253" height="53" alt="image" src="https://github.com/user-attachments/assets/2795c7ff-a733-4ed2-b376-2ab1e60e5a65" /> aceite os todos os termos. </br> </br>
 **OBS: Existe uma mensagem que pode não aparecer neste momento, mas pode aparecer em outro. A mensagem fala sobre ROOT. Não concorde nem negue essa mensagem, apenas feche-a. Essa mensagem pode instalar um vírus no seu PC.**
-</br>
+</br> </br>
 **13º** Abra a UEFN dev, vá em  `Game/Maps` e abra o level `Frontend` **jamais clique em salvar nada na uefn dev porque ela crasha** </br>
 **14º** Vá em, (____________preencher____________) crie credênciais: </br>
 **Nome:** *Qualquer nome*</br>
