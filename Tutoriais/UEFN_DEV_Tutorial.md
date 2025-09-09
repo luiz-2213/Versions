@@ -4,7 +4,8 @@
 **3º** Procure o arquivo extraido e crie um atalho dele, renomei-o de, por exemplo UEFN 28.30</br>
 **4º** Abra as propriedades do atalho com o botão direito </br>
 <img width="325" height="77" alt="image" src="https://github.com/user-attachments/assets/487e3092-09ee-481d-a911-865ed6ee40ed" /> </br>
-Adicione `-disableplugins="AtomVK,ValkyrieFortnite"` ao caminho do arquivo, salve essa alteração a abra o atalho </br>
+Abra as propriedades do arquivo, vá em  **Destino** dê espeço e adicione: </br> `-disableplugins="AtomVK,ValkyrieFortnite`  </br>
+depois salve essa alteração a abra o atalho </br>
 **5º** Se sua uefn abriu com tudo desbloqueado, procure o material que deseja portar, abra-o, clique em qualquer node aperte `Ctrl A` depois `Ctrl C` </br>
 OBS: Fique com a uefn dev e a uefn normal abertas ao msm tempo </br>
 Crie um material, na UEFN normal, com o mesmo nome do material que você esta portando e cole os nodes que você copiou com `Ctrl V`. </br>
