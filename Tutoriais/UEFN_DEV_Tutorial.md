@@ -1,31 +1,39 @@
 <img width="663,5" height="623" alt="UEFN_Avisos_03V2_DEV" src="https://github.com/user-attachments/assets/aedabc0a-a836-4173-ae85-6eb04ca7dd2c" /> </br>
-**1º** Baixe a UEFN Dev no servidor deles, o download é feito no canal <img width="151,5" height="29" alt="image" src="https://github.com/user-attachments/assets/5447db4a-e2bd-46f1-b068-e572fd771a81" /> do servidor </br>
-**2º** Extrai-a o arquivo baixado em Fortnite/FortniteGame/Content/Binaries/Win64</br>
-**3º** Procure o arquivo extraido e crie um atalho dele, renomei-o de, por exemplo UEFN 28.30</br>
-**4º** Abra as propriedades do atalho com o botão direito </br>
-<img width="325" height="77" alt="image" src="https://github.com/user-attachments/assets/487e3092-09ee-481d-a911-865ed6ee40ed" /> </br>
-Abra as propriedades do arquivo, vá em  **Destino** dê espeço e adicione: </br> `-disableplugins="AtomVK,ValkyrieFortnite`  </br>
-depois salve essa alteração a abra o atalho </br>
-**5º** Se sua uefn abriu com tudo desbloqueado, procure o material que deseja portar, abra-o, clique em qualquer node aperte `Ctrl A` depois `Ctrl C` </br>
-OBS: Fique com a uefn dev e a uefn normal abertas ao msm tempo </br>
-Crie um material, na UEFN normal, com o mesmo nome do material que você esta portando e cole os nodes que você copiou com `Ctrl V`. </br>
-Conecte a saída dos nodes que foram desconectados nas entradas correspondentes no Material. </br>
-Mude as configurações do material para as configurações do material original(ex: se na dev está que o material é translúcido na uefn normal o material também deve estar translúcido, isso é feito manualmente). </br>
-Extrai-a as texturas com o FP, configure as texturas, e recoloque-as no material para ele validar. </br>
-Caso o material tenha um MF, ou MPC que não tenha na UEFN normal, vcprecisa portar o MPC e o MF. </br>
-**6º** Salve o material, execute o teste de validação no material  </br>
-### **ERROS E PROBLEMAS COMUNS** </br>
-**1º** Caso a UEFN não deixe você abrir um material, renicie a UEFN </br>
-**2º** Niagaras não abrem? Duplique o niagara e porte-o para UEFN </br>
-**3º** Node não pode ser colado? Custom nodes não podem colados, e nem todos os nodes são desbloquados na UEFN normal </br>
-**4º** Material não valida?Primeiro verifique se todas as MFs foram portadas; </br>
-Segundo, veja se recolocou todas as texturas no material </br>
 
-## Nomenclaturas:</br>
-**MF** = Função de Material (Material Function)</br>
-**MPC** = Coleção de Paramêtros de Material (Material Parameters Colletion)</br>
+**1º** Baixe a UEFN Dev no servidor deles. O download é feito no canal <img width="151,5" height="29" alt="image" src="https://github.com/user-attachments/assets/5447db4a-e2bd-46f1-b068-e572fd771a81" /> do servidor. </br>
 
+**2º** Extraia o arquivo baixado em `Fortnite/FortniteGame/Content/Binaries/Win64`. </br>
 
+**3º** Procure o arquivo extraído e crie um atalho dele. Renomeie-o, por exemplo, para *UEFN 28.30*. </br>
 
+**4º** Abra as propriedades do atalho com o botão direito. </br> <img width="325" height="77" alt="image" src="https://github.com/user-attachments/assets/487e3092-09ee-481d-a911-865ed6ee40ed" /> </br>
+No campo **Destino**, dê um espaço após o caminho do arquivo e adicione:
 
+```
+-disableplugins="AtomVK,ValkyrieFortnite"
+```
 
+Depois, salve a alteração e abra o atalho. </br>
+
+**5º** Se a UEFN abrir com tudo desbloqueado, procure o material que deseja portar, abra-o, clique em qualquer node, aperte `Ctrl A` e depois `Ctrl C`. </br>
+**Observação:** Mantenha a UEFN Dev e a UEFN normal abertas ao mesmo tempo. </br>
+Crie um material na UEFN normal com o mesmo nome do material que você está portando e cole os nodes copiados com `Ctrl V`. </br>
+Conecte a saída dos nodes que estavam desconectados nas entradas correspondentes do material. </br>
+Ajuste as configurações do material de acordo com o material original (ex.: se na Dev o material é translúcido, na UEFN normal ele também deve estar translúcido — feito manualmente). </br>
+Extraia as texturas com o FP, configure-as e recoloque-as no material para que ele valide. </br>
+Se o material tiver um MF ou MPC que não exista na UEFN normal, será necessário portar o MPC e o MF. </br>
+
+**6º** Salve o material e execute o teste de validação. </br>
+
+### **Erros e Problemas Comuns** </br>
+
+**1º** Caso a UEFN não permita abrir um material, reinicie a UEFN. </br>
+**2º** Niagaras não abrem? Duplique o Niagara e porte-o para a UEFN. </br>
+**3º** Node não pode ser colado? Custom nodes não podem ser colados, e nem todos os nodes são desbloqueados na UEFN normal. </br>
+**4º** Material não valida? Primeiro, verifique se todas as MFs foram portadas.
+Segundo, confira se todas as texturas foram recolocadas no material. </br>
+
+## **Nomenclaturas** </br>
+
+**MF** = Função de Material (Material Function) </br>
+**MPC** = Coleção de Parâmetros de Material (Material Parameters Collection) </br>
