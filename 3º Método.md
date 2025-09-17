@@ -5,7 +5,8 @@
 Para portar materiais, é necessário: </br>
 
 **1º** Ter **conhecimento básico sobre o uso de nodes de materiais**. </br>
-**2º** Saber validar um material. Obs: **Custom Nodes e RVT não têm suporte na UEFN, ou seja, não serão validados**. </br>
+**2º** Saber validar um material.</br>
+Obs: **Custom Nodes e RVT não têm suporte na UEFN, ou seja, não serão validados**. </br>
 **3º** Extrair materiais e afins. Para isso, existem duas opções: usar a **UEFN Dev** ou o **JAA**. </br>
 
 * **UEFN Dev** </br>
