@@ -11,7 +11,7 @@ Para portar materiais, é necessário: </br>
 * **UEFN Dev** </br>
   [server](https://discord.com/invite/VpYyFS8wbm) </br>
   [Turotial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/UEFN_DEV_Tutorial.md) </br>
-  Tutorial em vídeo (EM PRODUÇÃO) </br>
+  **Vídeo (EM PRODUÇÃO)** </br>
 
 * **JAA** </br>
-  [Tutorial em vídeo](https://www.youtube.com/watch?v=euJg3PCDXaQ&t=5s) </br>
+  [Vídeo](https://www.youtube.com/watch?v=euJg3PCDXaQ&t=5s) </br>
