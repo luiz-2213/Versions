@@ -9,7 +9,7 @@ Para portar materiais, é necessário: </br>
 **3º** Extrair materiais e afins. Para isso, existem duas opções: usar a **UEFN Dev** ou o **JAA**. </br>
 
 * **UEFN Dev** </br>
-  [server](https://discord.com/invite/VpYyFS8wbm) </br>
+  [Server](https://discord.com/invite/VpYyFS8wbm) </br>
   [Turotial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/UEFN_DEV_Tutorial.md) </br>
   **Vídeo (EM PRODUÇÃO)** </br>
 
