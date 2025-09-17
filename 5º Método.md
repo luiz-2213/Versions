@@ -1,14 +1,15 @@
 # 5º Método
 ## **Extração de conteúdo de eventos** </br>
-**Necessário o conhecimento dos métodos anteriores**  </br>
-Para extrair as coisas do eventos,  usaremos:</br>
-O FP para os modelos, animações e texturas;</br>
-E UEFN-PIE para os materiais, configurações de textura, MPCs, MFs, entre outros.</br>
-Precisaremos de Plugins ou arquivos da UEFN-PIE para a UEFN descriptografar o evento.</br>
-* **UEFN-PIE**</br>
-[UEFN-PIE GitHub Page](https://github.com/wildfurball4/UEFN-PIE/tree/main?tab=readme-ov-file) </br>
-[UEFN-PIE Tutorial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/UEFN-PIE%20Tutorial.md) </br>
+**Necessário ter conhecimento dos métodos anteriores.** </br>
+Para extrair os conteúdos dos eventos, usaremos: </br>
+* O FP para modelos, animações e texturas. </br>
+* A UEFN-PIE para materiais, configurações de textura, MPCs, MFs, entre outros. </br>
+Será necessário instalar plugins ou arquivos da UEFN-PIE para que a UEFN possa descriptografar o evento. </br>
 
+* **UEFN-PIE** </br>
+  [GitHub Page](https://github.com/wildfurball4/UEFN-PIE/tree/main?tab=readme-ov-file) </br>
+  [Tutorial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/UEFN-PIE%20Tutorial.md) </br>
+  
 ##  Versões com eventos
 | Version | AESKeys | Mappings |  UE  | Event Codename |
 |---------|---------|----------|------|----------------|
