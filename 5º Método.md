@@ -34,7 +34,7 @@ Será necessário instalar plugins ou arquivos da UEFN-PIE para que a UEFN possa
 |22.40|x|x|[gigafile](https://42.gigafile.nu/0717-f74af55d65c16b789755388fc49226759)|-|
 |27.11|x|[gofile](https://gofile.io/d/MfJHqg)|[gigafile](https://42.gigafile.nu/0716-ma8dd9bbcc695f2e4dbaf51d3498d8054)|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/27.11?tab=readme-ov-file)| 
 |32.11|x|[gofile](https://gofile.io/d/8Q1Pl2)|[gigafile](https://42.gigafile.nu/0717-h721bb3932501e2575180b350f498ce62)|[UEFN-PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11?tab=readme-ov-file)|
-|35.20|x|[gofile](https://gofile.io/d/9OVwuD)|x|Plugin|
+|35.20|x|[gofile](https://gofile.io/d/9OVwuD)|x|UEFN-PIE|
 
 </br>
 
