@@ -14,6 +14,6 @@ Você pode usar:</br>
 [Site](https://www.gildor.org/en/projects/umodel) (Conhecido como **Umodel**)</br>
 O viewer não é mais utilizado, porém esta embutido no FP e no Fmodel</br>
 
-* **Adicionais**
+* **Adicionais**</br>
 [Blender](https://www.blender.org/download/releases/4-3/) para visualizão dos modelos(**obriagatório para o FP**)
 No youtube você irá encontrar tutoriais de como usar o blender
