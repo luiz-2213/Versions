@@ -1,11 +1,13 @@
 # 4º Método
-## **Extração de feitos Niagara conversão Cascade** </br>
-**OBS:** Infelizmente a UEFN não aceita efeitos do tipo *Cascade* como na UE, é necessário uma conversão de Cascade para Niagara </br>
+
+## **Extração de efeitos Niagara e conversão de Cascade** </br>
+
+**OBS:** Infelizmente a UEFN não aceita efeitos do tipo *Cascade* como na UE. É necessário realizar a conversão de Cascade para Niagara. </br>
 
 * **Niagara** </br>
-Tutorial
-*Vídeo (EM TRABALHO)*
+  [Tutorial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/Niagara%20Tutorial.md) </br>
+  *Vídeo (EM PRODUÇÃO)*
 
 * **Cascade** </br>
-Tutorial
-*Vídeo (EM TRABALHO)*
+  Tutorial </br>
+  *Vídeo (EM PRODUÇÃO)*
