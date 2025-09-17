@@ -14,6 +14,6 @@ Obs: **Custom Nodes e RVT não têm suporte na UEFN, ou seja, não serão valida
   [Turotial](https://github.com/luiz-2213/Versions/blob/main/Tutoriais/UEFN_DEV_Tutorial.md) </br>
   **Vídeo (EM PRODUÇÃO)** </br>
 
-* **JAA**
-  [Server](https://discord.gg/TfYmWYtKG6)
-  Vídeo
+* **JAA**</br>
+  [Server](https://discord.gg/TfYmWYtKG6)</br>
+  Vídeo</br>
