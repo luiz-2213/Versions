@@ -36,15 +36,16 @@ apague oque esta está escrito e cole o texto `FiddlerScript`.</br>
 **OBS: Existe uma mensagem que pode não aparecer neste momento, mas pode aparecer em outro. A mensagem fala sobre ROOT. Não concorde nem negue essa mensagem, apenas feche-a. Essa mensagem pode instalar um vírus no seu PC.**
 </br> </br>
 **13º** Abra a UEFN dev, vá em  `Game/Maps` e abra o level `Frontend` **jamais clique em salvar nada na uefn dev porque ela crasha** </br>
-**14º** Vá em, (____________preencher____________) crie credênciais: </br>
+**14º** Vá em, `Preferências do editor\Editor de Níveis\Credenciais de JNE` e crie credênciais: </br>
 **Nome:** *Qualquer nome*</br>
 **Password:** *qualquer coisa*</br>
 **Type:** epic</br>
-**15º**
-
-
-
-
-
+**15º** Mude o `Modo de Rede` de jogo para `Play Standalone`</br>
+<img width="315" height="142" alt="image" src="https://github.com/user-attachments/assets/05f32e63-0872-45e9-82c1-35d453abcc39" />
+</br>
+<img width="683" height="149" alt="image" src="https://github.com/user-attachments/assets/c82f41ce-13ac-45a1-b78c-def90da6ea93" />
+</br>
+**16º** Inicie normalmente a sessão, o lobby do fortnite vai abrir.
+**17º** Somente após o lobby abrir desligue a sessão, vá até a pasta no evento abra a **ÚNICA** Blueprint qe tem na pasta
 
 
