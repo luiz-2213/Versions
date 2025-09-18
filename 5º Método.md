@@ -22,7 +22,7 @@ Será necessário instalar plugins ou arquivos da UEFN-PIE para que a UEFN possa
 |22.40|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/AESKeys_22.40.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/22.40%20/++Fortnite+Release-22.40-CL-23070899-Android_oo.usmap)|5.0 |Radish      |
 |27.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/AESKeys_27.11.md)   |[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/27.11/%2B%2BFortnite%2BRelease-27.11-CL-29739262-Android_oo.usmap)|5.3 | Durian     |
 |32.11|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11%20/AESKeys_32.11.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/32.11/%2B%2BFortnite%2BRelease-32.11-CL-38202817-Windows_oo.usmap)|5.5 | Quail      |
-|34.30|key|----------|------| - |
+|34.30|key|----------|------|GiftedTraveler|
 |35.20|[key](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20%20/AesKeys_35.20.md)|[Usmap](https://github.com/luiz-2213/Versions/blob/main/Arquivos%20/35.20/%2B%2BFortnite%2BRelease-35.20-CL-42911808-Windows_oo.usmap)|5.6 |RipeHoneydew|
 |36.30|key|----------|------|PistolCanary|
 </br>
