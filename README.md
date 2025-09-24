@@ -18,3 +18,10 @@ Mensagem para todos os agentes*</br>
 **4º Método:** Extração de feitos Niagara [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/4%C2%BA%20M%C3%A9todo.md) </br>
 </br>
 **5º Método:** Extração de conteúdo de eventos! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/5%C2%BA%20M%C3%A9todo.md)</br>
+
+### Regras gerais para portar Assets:</br></br>
+
+**1º** Só é possível portar ativos a partir da criação da UEFN (versão 24.20), com exceção de malhas estáticas e esqueléticas.</br></br>
+**OBS:** Esses ativos só poderão ser portados se a Epic Games os recolocar em alguma versão.</br></br>
+**2º** Até hoje, 24/09/2025, a UEFN não tem suporte para Cascade, RVT, Custom Nodes, alguns recursos de água e NPC (Niagara Parameter Collection).</br></br>
+**3º** **Não poste ativos que não foi você que portou, dê créditos**
