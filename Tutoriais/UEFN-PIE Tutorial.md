@@ -45,7 +45,11 @@ apague oque esta está escrito e cole o texto `FiddlerScript`.</br>
 </br>
 <img width="683" height="149" alt="image" src="https://github.com/user-attachments/assets/c82f41ce-13ac-45a1-b78c-def90da6ea93" />
 </br>
-**16º** Inicie normalmente a sessão, o lobby do fortnite vai abrir.
-**17º** Somente após o lobby abrir desligue a sessão, vá até a pasta no evento abra a **ÚNICA** Blueprint qe tem na pasta
-
-
+**16º** Inicie normalmente a sessão, o lobby do fortnite vai abrir. </br>
+**17º** Somente após o lobby abrir desligue a sessão, vá até a pasta no evento abra a **ÚNICA** Blueprint qe tem na pasta. Caso não encontre a pasta pesquise `New Blueprint` em Plugins</br>
+**18º** Abra o FortnitePorting e pesquise o nome do seu evento + .umap OU vá até a pasta do evento e na pasta `level` e procure um arquivo .umap</br>
+**19º** Clique no arquivo .Umap e procure o caminho do .umap</br>
+**20º** Na Blueprint vá até level copie a parte vazia e cole em um bloco de notas, substitua o caminho pelo do umap</br>
+**21º** Vá até a pasta do .umap , ele deve aparecer na pasta que `LEVEL` na UEFN.</br>
+**22º** Clique duas vezes e **NÃO SALVE AS ALTERAÇÕES PORQUE SE NÃO A UEFN SE FECHA!**</br>
+**23º** Agora ésó repetir o processo com todos os Umaps e os ativos vão começar a aparecer nas pastas, assim você pode porta-los</br>
