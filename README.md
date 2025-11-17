@@ -19,7 +19,7 @@ Mensagem para todos os agentes*</br>
 </br>
 **5º Método:** Extração de conteúdo de eventos! [Clique aqui](https://github.com/luiz-2213/Versions/blob/main/5%C2%BA%20M%C3%A9todo.md)</br>
 
-### Regras gerais para portar Assets:</br></br>
+### Regras gerais para portar Assets:</br>
 
 **1º** Só é possível portar ativos, como materiais, niagaras, MF, MPC e etc, a partir da criação da UEFN (versão 24.20). </br>
 **OBS:** Esses ativos só poderão ser portados se a Epic Games os recolocar em alguma versão.</br></br>
